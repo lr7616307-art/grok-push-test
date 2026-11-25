@@ -1,0 +1,5 @@
+Hello from Grok!
+
+This file was created and pushed successfully on 2026-11-25 to test GitHub write permissions.
+
+Repository is temporary and safe to delete.
